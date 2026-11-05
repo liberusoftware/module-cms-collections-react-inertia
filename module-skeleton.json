@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-collections-react-inertia",
+  "capabilityKey": "liberusoftware/module-cms-collections",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-cms-collections-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/cms/nextjs/cms-collections.md",
+  "presentationPlan": "projects/cms/react/cms-collections.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
